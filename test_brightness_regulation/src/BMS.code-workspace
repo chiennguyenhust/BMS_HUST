@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"name": "test_rs485",
+			"path": "../../test_rs485/test_rs485"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"simcom_api.h": "c"
+		}
+	}
+}
